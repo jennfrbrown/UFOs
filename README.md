@@ -14,10 +14,10 @@ To understand how the webpage works, we'll walk through applying a filter to the
 First, we will filter by state.
 1. Go to the filter "Enter a State" and enter the state abbreviation.  For this example, we will use California.
 2. This will return all data associated with California.
-
+<img src ="https://github.com/jennfrbrown/UFOs/blob/master/ReadMe%20Images/ca%20filter.PNG">
 
 3. Next, we will filter by city.  For this example, we will use Bakersfield.
-
+<img src="https://github.com/jennfrbrown/UFOs/blob/master/ReadMe%20Images/bakersfield%20filter.PNG">
 
 You can also filter the data based on any filter category and when the user presses enter, the results will update.
 
